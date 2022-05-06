@@ -1,4 +1,4 @@
-<h1 align="center">It's Krysky Tank</h1>
+<h1 align="center">It's Krusky Tank</h1>
 <h3 align="center">Hello, Welcome, Goodbye.</h3>
 
 - 🔭 I’m currently working on [my shitty website](krusk.vercel.app)
