@@ -1,7 +1,7 @@
 <h1 align="center">It's Krusky Tank</h1>
 <h3 align="center">Hello, Welcome, Goodbye.</h3>
 
-- 🔭 I’m currently working on [my shitty website](https://krusk.vercel.app/)
+- 🔭 I’m currently working on [my shitty website](krusk.vercel.app)
 
 - 📫 How to reach me **Kruskffxiv@gmail.com**
 
