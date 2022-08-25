@@ -1,7 +1,7 @@
 [![MasterHead](https://www.seamedu.com/blog/wp-content/uploads/2019/11/game_designvsgame_development02-4.jpg)]
 <h1 align="center">It's Krusky Tank</h1>
 <h3 align="center">Hello, Welcome, Goodbye.</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76119b6dc55b96a772251c41a3619c3b5a18ec58ff3a&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=railroad-wrecker&label=Profile%20views&color=0e75b6&style=flat" alt="railroad-wrecker" /> </p>
 
