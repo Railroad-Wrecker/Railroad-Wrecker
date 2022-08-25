@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=railroad-wrecker&label=Profile%20views&color=0e75b6&style=flat" alt="railroad-wrecker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=railroad-wrecker" alt="railroad-wrecker" /></a> </p>
-
 - 🔭 I’m currently working on **a voxel-based game**
 
 - 🌱 I’m currently learning **React, Next.js, Unity, etc**
@@ -37,5 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=railroad-wrecker&show_icons=true&theme=tokyonight&locale=en" alt="railroad-wrecker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=railroad-wrecker&theme=dark" alt="railroad-wrecker" /></p>
-
 
