@@ -1,4 +1,4 @@
-[![MasterHead](https://www.seamedu.com/blog/wp-content/uploads/2019/11/game_designvsgame_development02-4.jpg)]
+[![MasterHead](https://imgur.com/hDsjgBo)]
 <h1 align="center">It's Krusky Tank</h1>
 <h3 align="center">Hello, Welcome, Goodbye.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
