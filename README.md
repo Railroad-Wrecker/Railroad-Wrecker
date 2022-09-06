@@ -38,12 +38,6 @@
 
 <p align="center">
     <a href="#statistics">
-        <img src="https://github-readme-stats.vercel.app/api?username=railroad-wrecker&show_icons=true&theme=tokyonight&locale=en" alt="railroad-wrecker" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="#statistics">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=railroad-wrecker&theme=tokyonight&locale=en" alt="railroad-wrecker" />
     </a>
 </p>
