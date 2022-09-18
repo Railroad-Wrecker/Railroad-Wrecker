@@ -3,7 +3,7 @@
 <h1 align="center">It's Krusky Tank</h1> 
 <h3 align="center">You might have seen me somewhere, but maybe not.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/1zjVirnmY7hIc/giphy.gif">
- 
+  
 ## About me
 
 - 🔭 I’m currently working on [a voxel-based game](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
