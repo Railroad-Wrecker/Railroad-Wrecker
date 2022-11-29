@@ -28,7 +28,7 @@
 <a href="https://instagram.com/viktor nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viktor nguyen" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/baggedkrusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="baggedkrusk" height="30" width="40" /></a>
 <a href="https://discord.gg/Railroad_wrecker#2838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Railroad_wrecker#2838" height="30" width="40" /></a>
-</p>
+</p> 
    
 ## Languages and Tools that I'm familiar with
 
