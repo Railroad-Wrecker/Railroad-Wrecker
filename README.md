@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [krusk.vercel.app](krusk.vercel.app)
 
 - 💬 Ask me about **FFXIV**
-
+ 
 - 📫 How to reach me **Kruskffxiv@gmail.com**
 
 - ⚡ FFXIV IGN **Krusky Tank**
