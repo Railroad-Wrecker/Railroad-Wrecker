@@ -8,7 +8,7 @@
  
 - 🔭 I’m currently working on [a voxel-based game](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
-- 🌱 I’m currently learning **React, Next.js, Unity, etc**   
+- 🌱 I’m currently learning **React, Next.js, Unity, etc**    
 
 - 👨‍💻 All of my projects are available at [krusk.vercel.app](krusk.vercel.app)
 
