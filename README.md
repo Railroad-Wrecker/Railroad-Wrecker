@@ -8,9 +8,9 @@
  
 - 🔭 I’m currently working on [my stuff](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
-- 🌱 I’m currently learning **many things, including hơ to play both WOW and FFXIV at the same time on 2 monitors**    
+- 🌱 I’m currently learning **many things**    
 
-- 👨‍💻 All of my projects are available at [this unfinished website I never bothered to finish](krusk.vercel.app)
+- 👨‍💻 All of my projects are available at [this unfinished website](krusk.vercel.app)
 
 - 💬 Ask me about **FFXIV and maybe WOW**
  
