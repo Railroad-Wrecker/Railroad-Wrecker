@@ -6,17 +6,17 @@
   
 ## About me     
  
-- 🔭 I’m currently working on [a voxel-based game](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+- 🔭 I’m currently working on [my stuff](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
-- 🌱 I’m currently learning **React, Next.js, Unity, etc**    
+- 🌱 I’m currently learning **many things, including hơ to play both WOW and FFXIV at the same time on 2 monitors**    
 
-- 👨‍💻 All of my projects are available at [krusk.vercel.app](krusk.vercel.app)
+- 👨‍💻 All of my projects are available at [this unfinished website I never bothered to finish](krusk.vercel.app)
 
-- 💬 Ask me about **FFXIV**
+- 💬 Ask me about **FFXIV and maybe WOW**
  
 - 📫 How to reach me **Kruskffxiv@gmail.com**
 
-- ⚡ FFXIV IGN **Krusky Tank**
+- ⚡ FFXIV and WOW IGN **Krusky Tank**
 
 
 ## Contact with me 
