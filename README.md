@@ -3,8 +3,11 @@
 # 👋 Hallo, I’m Krusk Nguyen
 
 🎓 Final-year Software Engineering (Honours) @ RMIT Vietnam  
+
 💻 Fullstack Engineer Intern @ NAB 
+
 🤖 Machine Learning Engineer @ Intel | AI/ML Enthusiast 
+
 🎮 Gamer (FFXIV, WoW, and too many Steam games in backlog)  
 
 ---
