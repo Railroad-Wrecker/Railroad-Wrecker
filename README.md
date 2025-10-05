@@ -2,6 +2,10 @@
 
 # 👋 Hallo, I’m Krusk Nguyen
 
+My contribution chart is empty not because I'm not coding, but because my company requires me to use enterprise github so yeah.
+
+---
+
 🎓 Final-year Software Engineering (Honours) @ RMIT Vietnam  
 
 💻 Fullstack Engineer Intern @ NAB 
