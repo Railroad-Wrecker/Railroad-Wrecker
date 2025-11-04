@@ -8,7 +8,7 @@ My contribution chart is empty not because I'm not coding, but because my compan
 
 🎓 Final-year Software Engineering (Honours) @ RMIT Vietnam  
 
-💻 Fullstack Engineer Intern @ NAB 
+💻 Software Engineer | Digital Platform @ NAB 
 
 🤖 Machine Learning Engineer @ Intel | AI/ML Enthusiast 
 
